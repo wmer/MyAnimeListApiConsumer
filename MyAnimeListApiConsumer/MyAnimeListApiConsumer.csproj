@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>William Santana</Authors>
+    <Description>My Anime List API</Description>
+    <PackageProjectUrl>https://github.com/wmer/MyAnimeListApiConsumer</PackageProjectUrl>
+    <PackageTags>MyAnimeList</PackageTags>
   </PropertyGroup>
 
 </Project>
